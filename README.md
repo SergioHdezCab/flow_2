@@ -50,7 +50,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/flow2-nodered-docker-compose/blob/main/Imagenes/Screenshot%20from%202023-05-24%2019-58-48.png)
+![](https://github.com/NYamDN/flow_2/blob/main/imagenes/image.png?raw=true)
 
 ## Notas
 
