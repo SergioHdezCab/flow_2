@@ -71,4 +71,4 @@ return msg;
 
 # Créditos
 
-Desarrollado por Nadia Yamilè
+Desarrollado por Sergio Hernández Cabrera
